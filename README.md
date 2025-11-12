@@ -20,7 +20,6 @@ npm run preview
 # Run smoke tests
 npm run smoke
 ```
-
 ## ✨ Features
 
 - **User Profile Management**: Complete profile setup with personalization
